@@ -2,8 +2,6 @@
 
 **Applied AI builder.** I build LLM-powered tools and automation. My rule of thumb: code owns the numbers, the model explains and decides what to say.
 
-Looking for graduate and junior roles in applied AI and AI automation.
-
 ### Now
 - **Sber**: Systems Analyst Intern, working on AI automation.
 - **Nexara**: shipping in versioned releases with a changelog.
@@ -35,8 +33,6 @@ I build with AI coding assistants every day.
 ## Русский
 
 **Applied AI builder.** Делаю инструменты и автоматизацию на LLM. Мой принцип: цифры считает код, а модель объясняет и решает, что сказать.
-
-Ищу graduate- и junior-позиции в applied AI и автоматизации с помощью AI.
 
 ### Сейчас
 - **Сбер**: Systems Analyst Intern, занимаюсь AI-автоматизацией.
