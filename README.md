@@ -1,14 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Artem: applied AI builder. LLM tooling, agents and automation." src="assets/banner-light.svg" width="100%">
-</picture>
-
-**[English](#english) · [Русский](#русский)**
-
-</div>
-
 ## English
 
 **Applied AI builder.** I build LLM-powered tools and agents. My rule of thumb: code owns the numbers, the model explains and decides what to say.
