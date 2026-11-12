@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-labelledby="t d">
+  <title id="t">How FinAudit splits the work</title>
+  <desc id="d">A bank statement goes to a Go rules engine that calculates metrics and risk flags. An LLM then explains the aggregated results in a plain-language report.</desc>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#57606a"/></marker></defs>
+  <rect x=".5" y=".5" width="999" height="229" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="25" y="46" width="200" height="104" rx="14" fill="#ffffff" stroke="#57606a" stroke-width="2"/>
+  <text x="125" y="84" text-anchor="middle" style="font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0f172a">Bank statement</text>
+  <text x="125" y="110" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">uploaded</text>
+  <text x="125" y="130" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">by the user</text>
+<line x1="231" y1="98" x2="269" y2="98" stroke="#57606a" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="275" y="46" width="200" height="104" rx="14" fill="#ffffff" stroke="#0d9488" stroke-width="2"/>
+  <text x="375" y="84" text-anchor="middle" style="font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0f172a">Go rules engine</text>
+  <text x="375" y="110" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">metrics and</text>
+  <text x="375" y="130" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">risk flags</text>
+<line x1="481" y1="98" x2="519" y2="98" stroke="#57606a" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="525" y="46" width="200" height="104" rx="14" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="625" y="84" text-anchor="middle" style="font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0f172a">LLM</text>
+  <text x="625" y="110" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">explains the</text>
+  <text x="625" y="130" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">aggregated results</text>
+<line x1="731" y1="98" x2="769" y2="98" stroke="#57606a" stroke-width="2" marker-end="url(#a)"/>
+  <rect x="775" y="46" width="200" height="104" rx="14" fill="#ffffff" stroke="#57606a" stroke-width="2"/>
+  <text x="875" y="84" text-anchor="middle" style="font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0f172a">Report</text>
+  <text x="875" y="110" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">plain-language</text>
+  <text x="875" y="130" text-anchor="middle" style="font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a">cash-gap warnings</text>
+  <text x="375" y="176" text-anchor="middle" style="font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#0d9488">DETERMINISTIC</text>
+  <text x="625" y="176" text-anchor="middle" style="font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;fill:#7c3aed">LANGUAGE</text>
+  <text x="500" y="208" text-anchor="middle" style="font:400 15px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#0f172a">Numbers come from code. The model explains them.</text>
+</svg>
